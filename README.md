@@ -1,5 +1,7 @@
 # Prerequisite:
 
+	Minikube is for single node, cant create Master/Node concept ( for testing and practising we can use it)
+
 	To install Minikube, minimum two core is required.(Choose t2.medium)
 
 # Minikube Cluster creation steps
