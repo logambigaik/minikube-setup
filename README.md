@@ -1,3 +1,7 @@
+# Prerequisite:
+
+	To install Minikube, minimum two core is required.(Choose t2.medium)
+
 # Minikube Cluster creation steps
 
 # kubectl (install)
