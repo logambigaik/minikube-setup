@@ -62,6 +62,8 @@ https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
         or create yaml for service
 	
 ![image](https://user-images.githubusercontent.com/54719289/111622451-1da9f100-87e1-11eb-95db-0e991106bc69.png)
+
+
         
 	>> kubectl create -f nginx-service.yml
 	>> kubectl get svc
@@ -73,5 +75,12 @@ https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
 	kubectl api-resources | get Service
 	
 	
+
+# selector and template labels:
+
+![image](https://user-images.githubusercontent.com/54719289/111679791-6e3d4080-8819-11eb-8012-bee52772e1da.png)
+
+# After troubleshoot:
+![image](https://user-images.githubusercontent.com/54719289/111680262-f28fc380-8819-11eb-83a1-b5c39f147104.png)
 
 		
