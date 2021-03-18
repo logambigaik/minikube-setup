@@ -197,9 +197,9 @@ https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
 
 
 
+# kubectl describe pods nginx-deploy
 
-
-		
+			
 
 
 
